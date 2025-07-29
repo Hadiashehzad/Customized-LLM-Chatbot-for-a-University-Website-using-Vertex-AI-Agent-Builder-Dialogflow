@@ -17,17 +17,17 @@ Vertex AI Agent Builder is a user-friendly platform that allows you to build and
 
 ### Building a Generativ ChatBot with Vertex AI Agent Builder
 
-  1- Navigate to Vertex AI Agent Builder from Cloud Console and Activate API. Credits will be added to your billing Accounts once API is activated.
+  1. Navigate to Vertex AI Agent Builder from Cloud Console and Activate API. Credits will be added to your billing Accounts once API is activated.
   
-  2- Create an App: Within the Vertex AI Agent Builder interface, you’ll first create a new application > Chat Application.
+  2. Create an App: Within the Vertex AI Agent Builder interface, you’ll first create a new application > Chat Application.
   
-  3- Build a Datastore: This is where you can upload your custom data, like documents, FAQs, product descriptions, or any other relevant information you want your chatbot to be familiar with. I uploaded html pages from the LUMS website and other pdf documents related to information about the admissions process.
+  3. Build a Datastore: This is where you can upload your custom data, like documents, FAQs, product descriptions, or any other relevant information you want your chatbot to be familiar with. I uploaded html pages from the LUMS website and other pdf documents related to information about the admissions process.
   
-  4- Connect Datastore to App: Link the datastore to the chatbot application created earlier.
+  4. Connect Datastore to App: Link the datastore to the chatbot application created earlier.
   
-  5- Configure Generative AI Model with Conversational Agent: Vertex AI integrates with Conversational Agent, a conversational AI platform from Google
+  5. Configure Generative AI Model with Conversational Agent: Vertex AI integrates with Conversational Agent, a conversational AI platform from Google
   
-  6- Test and Integrate: Once I built my chatbot, I tested it within the Vertex AI interface to see how it responds to different queries. Then I integrated the chatbot into a webpage.
+  6. Test and Integrate: Once I built my chatbot, I tested it within the Vertex AI interface to see how it responds to different queries. Then I integrated the chatbot into a webpage.
 
 <img width="257" height="420" alt="Screenshot 2025-06-26 084433" src="https://github.com/user-attachments/assets/c27dae01-1d79-4ce5-a7ad-4189af2e1ec4" />
 
